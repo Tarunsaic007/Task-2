@@ -9,7 +9,7 @@ import sys
 # Code here - Import BeautifulSoup library
 
 # Code ends here
-
+# https://medium.com/@verylazytech/why-djangos-debug-true-is-a-goldmine-for-hackers-01486289607d (URL)
 # function to get the html source text of the medium article
 def get_page():
 	global url
